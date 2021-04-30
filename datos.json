@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Marce",
+    "edad": 33,
+    "cosas": [1, 2, 333]
+  },
+  {
+    "nombre": "Mario",
+    "edad": 55,
+    "cosas": ["gorra", "bigote", "cañeria"]
+  },
+  {
+    "nombre": "Browser",
+    "edad": 48,
+    "cosas": ["castillo", "caparazon", "hacha"]
+  },
+  {
+    "nombre": "Luigi",
+    "edad": 40,
+    "cosas": ["atrapa fantasmas", "cara de sorpresa", "mansión"]
+  },
+  {
+    "nombre": "Princesa Peach",
+    "edad": 38,
+    "cosas": ["vestido", "corona", "guantes"]
+  },
+  {
+    "nombre": "Yoshi",
+    "edad": 99,
+    "cosas": ["huevos", "cola", "ocico"]
+  },
+  {
+    "nombre": "Toad",
+    "edad": 18,
+    "cosas": ["hongo", 2, "nube"]
+  }
+]
